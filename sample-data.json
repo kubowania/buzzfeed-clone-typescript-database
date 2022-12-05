@@ -1,0 +1,460 @@
+{
+  "quizId": "3483j33",
+  "title": "What cheese are you?",
+  "subtitle": "This quiz isn't cheesy or anything like that...",
+  "content": [
+    {
+      "id": 0,
+      "text": "Pick a vacation destination:",
+      "questions": [
+        {
+          "text": "New York",
+          "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "Photo of Empire State Building during daytime",
+          "credit": "Oliver Niblett"
+        },
+        {
+          "text": "Austin",
+          "image": "https://images.unsplash.com/photo-1531218150217-54595bc2b934?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "Time-lapse photography car lights on bridge",
+          "credit": "Carlos Alfonso"
+        },
+        {
+          "text": "Portland",
+          "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "High-rise buildings",
+          "credit": "Elena Kuchko"
+        },
+        {
+          "text": "New Orleans",
+          "image": "https://images.unsplash.com/photo-1549965738-e1aaf1168943?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "Road with people and house",
+          "credit": "João Francisco"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "text": "Pick some food:",
+      "questions": [
+        {
+          "text": "Pizza",
+          "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "Pepperoni Pizza",
+          "credit": "Alan Hardman"
+        },
+        {
+          "text": "Sandwich",
+          "image": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "ham sandwich on white surface",
+          "credit": "Eaters Collective"
+        },
+        {
+          "text": "Pasta",
+          "image": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "Pasta in tomato sauce",
+          "credit": "Mgg Vitchakorn"
+        },
+        {
+          "text": "Hamburger",
+          "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "hamburger",
+          "credit": "sk"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Pick a home:",
+      "questions": [
+        {
+          "text": "Traditional",
+          "image": "https://images.unsplash.com/photo-1555040479-c949debe66c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "focus photography of building windows",
+          "credit": "Burgess Milner"
+        },
+        {
+          "text": "Modern",
+          "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "low angle view of building",
+          "credit": "Brandon Giggs"
+        },
+        {
+          "text": "House",
+          "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "trees beside white house",
+          "credit": "Phil Hearing"
+        },
+        {
+          "text": "Mountains",
+          "image": "https://images.unsplash.com/photo-1506974210756-8e1b8985d348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "alt": "brown wooden cabin infront of forest",
+          "credit": "eulauretta"
+        }
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "combination": ["New York", "Pizza", "Traditional"],
+      "text": "Blue Cheese",
+      "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&w=400&h=400&fit=fillmax",
+      "alt": "blue cheese"
+    },
+    {
+      "combination": ["Austin", "Pasta", "Modern"],
+      "text": "Cheddar",
+      "image": "https://images.unsplash.com/photo-1618164436241-4473940d1f5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+      "alt":  "cheddar cheese"
+    },
+    {
+      "combination": ["Portland", "Sandwich", "Mountains"],
+      "text": "Feta",
+      "image": "https://images.unsplash.com/photo-1626957341926-98752fc2ba90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "alt":  "feta"
+    },
+    {
+      "combination": ["New Orleans", "Hamburger", "House"],
+      "text": "Halloumi",
+      "image": "https://images.unsplash.com/photo-1598167912234-02576c0c5f16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+      "alt":  "halloumi"
+    },
+    {
+      "combination": ["New York", "Pizza", "Modern"],
+      "text": "Goya",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queso_Goya.jpg",
+      "alt":  "Goya"
+    },
+    {
+      "combination": ["New York", "Pizza", "Mountains"],
+      "text": "Red Hawk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg",
+      "alt":  "Red Hawk"
+    },
+    {
+      "combination": ["New York", "Pizza", "House"],
+      "text": "Pepper Jack",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pepperjack_Cheese.jpg",
+      "alt":  "Pepper Jack"
+    },
+    {
+      "combination": ["New York", "Pasta", "Traditional"],
+      "text": "Nacho cheese",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nachos_supreme.jpg/270px-Nachos_supreme.jpg",
+      "alt":  "Nacho cheese"
+    },
+    {
+      "combination": ["New York", "Pasta", "Modern"],
+      "text": "Muenster",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Block_of_Muenster_cheese.jpg",
+      "alt":  "Muenster"
+    },
+    {
+      "combination": ["New York", "Pasta", "Mountains"],
+      "text": "Humboldt Fog",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cheese_30_bg_051906.jpg",
+      "alt":  "Humboldt Fog"
+    },
+    {
+      "combination": ["New York", "Pasta", "House"],
+      "text": "Brick",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brickcheese.jpg",
+      "alt":  "Brick"
+    },
+    {
+      "combination": ["New York", "Sandwich", "Traditional"],
+      "text": "Oaxaca",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png",
+      "alt":  "Oaxaca"
+    },
+    {
+      "combination": ["New York", "Sandwich", "Modern"],
+      "text": "Criollo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fromage_criollo._%2815228806466%29.jpg",
+      "alt":  "Criollo"
+    },
+    {
+      "combination": ["New York", "Sandwich", "Mountains"],
+      "text": "Asadero",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tlayuda_con_Quesillo%2C_Oaxaca.jpg",
+      "alt":  "Asadero"
+    },
+    {
+      "combination": ["New York", "Sandwich", "House"],
+      "text": "Añejo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Queso_a%C3%B1ejo.JPG/270px-Queso_a%C3%B1ejo.JPG",
+      "alt":  "Añejo"
+    },
+    {
+      "combination": ["New York", "Hamburger", "Traditional"],
+      "text": "Adobera",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Adobera.png/270px-Adobera.png",
+      "alt":  "Adobera"
+    },
+    {
+      "combination": ["New York", "Hamburger", "Modern"],
+      "text": "Quesillo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png/270px-Quesillo_de_Oaxaca.png",
+      "alt":  "Quesillo"
+    },
+    {
+      "combination": ["New York", "Hamburger", "Mountains"],
+      "text": "Cuajada",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuajada.jpg",
+      "alt":  "Cuajada"
+    },
+    {
+      "combination": ["New York", "Hamburger", "House"],
+      "text": "Turrialba",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Queso_Turrialba.jpg",
+      "alt":  "Turrialba"
+    },
+
+    {
+      "combination": ["Austin", "Pizza", "Traditional"],
+      "text": "Palmito",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palmito_cheese.jpg",
+      "alt":  "Palmito"
+    },
+    {
+      "combination": ["Austin", "Pizza", "Modern"],
+      "text": "Pikauba",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pikauba_%28fromage%29_03.jpg/270px-Pikauba_%28fromage%29_03.jpg",
+      "alt":  "Pikauba"
+    },
+    {
+      "combination": ["Austin", "Pizza", "Mountains"],
+      "text": "Hellim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halloumislicefresh.jpg/270px-Halloumislicefresh.jpg",
+      "alt":  "Hellim"
+    },
+    {
+      "combination": ["Austin", "Pizza", "House"],
+      "text": "Beyaz peynir",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/White_cheese_from_Turkey.jpg/270px-White_cheese_from_Turkey.jpg",
+      "alt":  "Beyaz peynir"
+    },
+    {
+      "combination": ["Austin", "Pasta", "Traditional"],
+      "text": "Nabulsi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%D8%AC%D8%A8%D9%86%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg",
+      "alt":  "Nabulsi"
+    },
+    {
+      "combination": ["Austin", "Pasta", "Mountains"],
+      "text": "Jameed",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jameed.JPG/270px-Jameed.JPG",
+      "alt":  "Jameed"
+    },
+    {
+      "combination": ["Austin", "Pasta", "House"],
+      "text": "Labneh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Labneh01.jpg",
+      "alt":  "Labneh"
+    },
+    {
+      "combination": ["Austin", "Sandwich", "Traditional"],
+      "text": "Pot Cheese",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kupe_paniri.jpg",
+      "alt":  "Pot Cheese"
+    },
+    {
+      "combination": ["Austin", "Sandwich", "Modern"],
+      "text": "Rumi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flickr_-_Tour_d%27Afrique_-_ArabicCheese.jpg",
+      "alt":  "Rumi"
+    },
+    {
+      "combination": ["Austin", "Sandwich", "Mountains"],
+      "text": "Mish",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mesh.jpg/270px-Mesh.jpg",
+      "alt":  "Mish"
+    },
+    {
+      "combination": ["Austin", "Sandwich", "House"],
+      "text": "Domiati",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Domiati_cheese.jpg/270px-Domiati_cheese.jpg",
+      "alt":  "Domiati"
+    },
+    {
+      "combination": ["Austin", "Hamburger", "Traditional"],
+      "text": "Bryndza",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bryndza.jpg/270px-Bryndza.jpg",
+      "alt":  "Bryndza"
+    },
+    {
+      "combination": ["Austin", "Hamburger", "Modern"],
+      "text": "Grevé",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wedge_of_Swedish_Grev%C3%A9_cheese.jpg/270px-Wedge_of_Swedish_Grev%C3%A9_cheese.jpg",
+      "alt":  "Grevé"
+    },
+    {
+      "combination": ["Austin", "Hamburger", "Mountains"],
+      "text": "Parenica",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Parenica.jpg/270px-Parenica.jpg",
+      "alt":  "Parenica"
+    },
+    {
+      "combination": ["Austin", "Hamburger", "House"],
+      "text": "Korbáčiky",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%9Aden%C3%BD_korb%C3%A1%C4%8Dik_%28Slovakia%29.jpg/270px-%C3%9Aden%C3%BD_korb%C3%A1%C4%8Dik_%28Slovakia%29.jpg",
+      "alt":  "Korbáčiky"
+    },
+    {
+      "combination": ["Portland", "Pizza", "Mountains"],
+      "text": "Liptauer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Liptauer.jpg/270px-Liptauer.jpg",
+      "alt":  "Liptauer"
+    },
+    {
+      "combination": ["Portland", "Pizza", "House"],
+      "text": "Tvorog",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tvorog.jpg/270px-Tvorog.jpg",
+      "alt":  "Tvorog"
+    },
+    {
+      "combination": ["Portland", "Pasta", "Traditional"],
+      "text": "Circassian",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%90%D0%B4%D1%8B%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%8B%D1%80.jpg",
+      "alt":  "Circassian"
+    },
+    {
+      "combination": ["Portland", "Pasta", "Modern"],
+      "text": "Cașcaval",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Penteleu.jpg",
+      "alt":  "Cașcaval"
+    },
+    {
+      "combination": ["Portland", "Pasta", "Mountains"],
+      "text": "Telemea",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Telemea.jpg",
+      "alt":  "Telemea"
+    },
+    {
+      "combination": ["Portland", "Pasta", "House"],
+      "text": "Requeijão",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/RequeijaoCremoso.jpg",
+      "alt":  "Requeijão"
+    },
+    {
+      "combination": ["Portland", "Sandwich", "Traditional"],
+      "text": "Norvegia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Norvegia_Vellagret.JPG",
+      "alt":  "Norvegia"
+    },
+    {
+      "combination": ["Portland", "Sandwich", "Modern"],
+      "text": "Jarlsberg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jarlsberg_cheese.jpg",
+      "alt":  "Jarlsberg"
+    },
+    {
+      "combination": ["Portland", "Sandwich", "House"],
+      "text": "Gamalost",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gamalost-NorwegianOldCheese.jpg",
+      "alt":  "Gamalost"
+    },
+    {
+      "combination": ["Portland", "Hamburger", "Traditional"],
+      "text": "Brunost",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brunost.jpg",
+      "alt":  "Brunost"
+    },
+    {
+      "combination": ["Portland", "Hamburger", "Modern"],
+      "text": "Pannónia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emmental_015.jpg",
+      "alt":  "Pannónia"
+    },
+    {
+      "combination": ["Portland", "Hamburger", "Mountains"],
+      "text": "Orda",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Urd%C4%83.png",
+      "alt":  "Orda"
+    },
+    {
+      "combination": ["Portland", "Hamburger", "House"],
+      "text": "Trappista",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TrappistenKaeseOffen_1.jpg",
+      "alt":  "Trappista"
+    },
+    {
+      "combination": ["New Orleans", "Pizza", "Mountains"],
+      "text": "Myzithra",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Homemade_Mizithra.jpg/2560px-Homemade_Mizithra.jpg",
+      "alt":  "Myzithra"
+    },
+    {
+      "combination": ["New Orleans", "Pizza", "House"],
+      "text": "Metsovone",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%CE%9C%CE%B5%CF%84%CF%83%CE%BF%CE%B2%CF%8C%CE%BD%CE%B5_6304.jpg",
+      "alt":  "Metsovone"
+    },
+    {
+      "combination": ["New Orleans", "Pasta", "Traditional"],
+      "text": "Manouri",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Manouri.jpg",
+      "alt":  "Manouri"
+    },
+    {
+      "combination": ["New Orleans", "Pasta", "Modern"],
+      "text": "Aura",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aura_juusto.jpg",
+      "alt":  "Aura"
+    },
+    {
+      "combination": ["New Orleans", "Pasta", "Mountains"],
+      "text": "Saga",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Soft_and_creamy_Saga_cheese.jpg",
+      "alt":  "Saga"
+    },
+    {
+      "combination": ["New Orleans", "Pasta", "House"],
+      "text": "Danish Blue",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Danish_Blue_cheese.jpg",
+      "alt":  "Danish Blue"
+    },
+    {
+      "combination": ["New Orleans", "Sandwich", "Traditional"],
+      "text": "Esrom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Esrom.jpg",
+      "alt":  "Esrom"
+    },
+    {
+      "combination": ["New Orleans", "Sandwich", "Modern"],
+      "text": "Staazer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Staazer_Heublumenk%C3%A4se_SB_01_WikiCheese_Lokal_K.jpg",
+      "alt":  "Staazer"
+    },
+    {
+      "combination": ["New Orleans", "Sandwich", "Mountains"],
+      "text": "Kashkaval",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kaschkawal_Kashkaval_%D0%BA%D0%B0%D1%88%D0%BA%D0%B0%D0%B2%D0%B0%D0%BB_Balkank%C3%A4se_Sofia_IMG_7649.JPG",
+      "alt":  "Kashkaval"
+    },
+    {
+      "combination": ["New Orleans", "Sandwich", "House"],
+      "text": "Sura Kees",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sura-Kees.JPG/1280px-Sura-Kees.JPG",
+      "alt":  "Sura Kees"
+    },
+    {
+      "combination": ["New Orleans", "Hamburger", "Traditional"],
+      "text": "Paneer",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "alt":  "Paneer"
+    },
+    {
+      "combination": ["New Orleans", "Hamburger", "Modern"],
+      "text": "Camembert",
+      "image": "https://images.unsplash.com/photo-1634487359989-3e90c9432133?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
+      "alt":  "Camembert"
+    },
+    {
+      "combination": ["New Orleans", "Hamburger", "Mountains"],
+      "text": "Sainte-Colome",
+      "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80",
+      "alt":  "sanite colome"
+    }
+  ]
+}
